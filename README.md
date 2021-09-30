@@ -16,3 +16,6 @@ _Puedes **combinar** ambas_
 * Salchicha
 * Servilleta
 
+1. Tampax
+2. Bastoncillos
+3. Cmida perro
