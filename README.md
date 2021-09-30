@@ -11,7 +11,8 @@ _Texto también en itálica_
 _Puedes **combinar** ambas_
 
 **Incluso de _esta_ manera**
-*Huevo
-*Salchicha
-*Servilleta
+
+* Huevo
+* Salchicha
+* Servilleta
 
