@@ -18,4 +18,4 @@ _Puedes **combinar** ambas_
 
 1. Tampax
 2. Bastoncillos
-3. Cmida perro
+3. Comida perro
