@@ -28,3 +28,11 @@ _Puedes **combinar** ambas_
 
 Como decía Rajoy:
 > Un vaso es un vaso y un plato es un plato
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
