@@ -21,3 +21,10 @@ _Puedes **combinar** ambas_
 3. Comida perro
   1. Perro chico
   2. Perro grande
+
+![Logotipo](img/logo.png)
+
+[Enlace](https://twitter.com/?lang=es)
+
+Como decía Rajoy:
+> Un vaso es un vaso y un plato es un plato
