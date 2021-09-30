@@ -22,7 +22,7 @@ _Puedes **combinar** ambas_
   1. Perro chico
   2. Perro grande
 
-![Logotipo](/Logotipo/RAJOY.jpg)
+![RAJOY](/Logotipo/RAJOY.jpg)
 
 [Enlace](https://twitter.com/?lang=es)
 
