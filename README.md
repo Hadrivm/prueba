@@ -24,7 +24,7 @@ _Puedes **combinar** ambas_
 
 ![RAJOY](/Logotipo/RAJOY.jpg)
 
-[DINERO GRATIS](https://www.google.com/search?q=troleado+puto&rlz=1C1CHBD_esES972ES972&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjOi9Htu6bzAhVFKBoKHZo6AfoQ_AUoAXoECAEQAw&biw=1280&bih=913&dpr=1#imgrc=4F5Fr1dP9_cESM)
+[DINERO GRATIS](https://www.google.com/search?q=cristiano+ronaldo+sin+camiseta&rlz=1C1CHBD_esES972ES972&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5jIuRvKbzAhUHx4UKHSPbBCoQ_AUoAXoECAEQAw&biw=1280&bih=913&dpr=1)
 
 Como decía Rajoy:
 > Un vaso es un vaso y un plato es un plato
