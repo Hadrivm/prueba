@@ -41,3 +41,4 @@ REAL MADRID | FC BARCELONA | ATLÉTICO DE MADRID
 ----------- | ------------ | ------------------
 Vinicius | Ansu Fati | Joao Félix
 Courtois | Ter Stegen | Oblak
+Benzema | Depay |Luis Suárez
