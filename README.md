@@ -37,7 +37,7 @@ function fancyAlert(arg) {
 }
 ```
 
-REAL MADRID | FC BARCELONA
------------ | ------------
-Vinicius | Ansu Fati
-Courtois | Ter Stegen
+REAL MADRID | FC BARCELONA | ATLÉTICO DE MADRID
+----------- | ------------ | ------------------
+Vinicius | Ansu Fati | Joao Félix
+Courtois | Ter Stegen | Oblak
