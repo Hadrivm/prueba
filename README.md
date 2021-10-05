@@ -44,6 +44,8 @@ Courtois | Ter Stegen | Oblak
 Benzema | Depay |Luis Suárez
 
 
-Actividad 1 | Descripción
+Tema 1 | Descripción
 ----------- | -----------
-[Actividad1](/Tema1/readme.md) | En esta actividad realizamos una página web sencilla con HTML con un encabezado h1
+[Actividad2](/Tema1/Actividad 2 XML LMAR.xml) | En esta actividad realizamos una biblioteca en código XML donde guardar una colección de libros
+[Actividad3](/Tema1/Actividad 3 SVG LMAR.html) | Aquí realizaremos una gráfica de ejemplo con SVG. Donde he creado un círculo
+
